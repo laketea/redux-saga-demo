@@ -1,0 +1,8 @@
+node_modules/
+dist/
+npm-debug.log
+*.sublime-project
+.idea
+.bat
+debug.log
+.vscode/
